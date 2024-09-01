@@ -26,6 +26,9 @@
 
 - [Timurkaaa](https://github.com/Timurkaaaaaaa)
 
+## Лицензия
+- MIT License
+
 ## Ссылки
 
 - [Icon](https://icons8.com/icon/1fAihUqPyWy5/receive-dollar)

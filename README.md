@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+      BonusesProga
+</p>
+
+<p align="center">
    <img src="https://img.shields.io/badge/Language-Python-yellow">
    <img src="https://img.shields.io/badge/Version-v1.2-blue">
 </p>

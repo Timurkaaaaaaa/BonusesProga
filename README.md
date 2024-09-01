@@ -7,21 +7,21 @@
    <img src="https://img.shields.io/badge/Version-v1.2-blue">
 </p>
 
-## About
+## О проекте
 
-A program for creating bonus lists on RP servers. The program will create a beautiful sign. This table will exactly fit the Majestic RP project.
+Программа для создания списков премирования на RP серверах. Программа создаст красивую таблицу. Эта программа точно подойдет к проекту Majestic RP.
 
-## Documentation
+## Документация
 
-After starting the program you need to enter 10 lines in the format <img src="https://img.shields.io/badge/First%20Name-green"> <img src="https://img.shields.io/badge/Last%20Name-yellow"> <img src="https://img.shields.io/badge/Static%20ID-purple"> <img src="https://img.shields.io/badge/Rank-blue"> <img src="https://img.shields.io/badge/Length%20of%20service-red">
+После запуска программы необходимо ввести 10 строк в формате <img src="https://img.shields.io/badge/Имя-green"> <img src="https://img.shields.io/badge/Фамилия-yellow"> <img src="https://img.shields.io/badge/Static%20ID-purple"> <img src="https://img.shields.io/badge/Ранг-blue"> <img src="https://img.shields.io/badge/Выслуга-red">
 
-The program was created in the PYTHON programming language using the PrettyTable libraries
+Программа создана на языке программирования PYTHON с использованием библиотеки PrettyTable.
 
-## Developers
+## Разработчики
 
 - [Timurkaaa](https://github.com/Timurkaaaaaaa)
 
-## Links
+## Ссылки
 
 - [Icon](https://icons8.com/icon/1fAihUqPyWy5/receive-dollar)
 - [Language](https://www.python.org/)
